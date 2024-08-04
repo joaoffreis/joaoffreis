@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm João Reis
 
-<!--
-**joaoffreis/joaoffreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a Data Analyst and Mechanical Engineer based in Basel, Switzerland. This space serves as my portfolio and as a resource for beginners and fellow developers.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Languages**: SQL, Python, R
+- **Data Tools**: Pandas, NumPy, Jupyter Notebooks
+- **Platforms**: Databricks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- **LinkedIn** [Joao Reis](https://www.linkedin.com/in/joaoffreis/)
+
+[comment]: <> (- 🌱 I’m currently learning ...)
+[comment]: <> (- ⚡ Fun fact: ...)
