@@ -1,14 +1,3 @@
-# 👋 Hi, I'm João Reis
+# 👋 Hello, I'm João
 
-Welcome to my GitHub! I'm a Data Analyst and Mechanical Engineer based in Basel, Switzerland. This space serves as my portfolio and as a resource for beginners and fellow developers.
-
-## 🛠️ Technologies & Tools
-- **Languages**: SQL, Python, R
-- **Data Tools**: Pandas, NumPy, Jupyter Notebooks
-- **Platforms**: Databricks
-
-## 📫 How to reach me:
-- **LinkedIn** [Joao Reis](https://www.linkedin.com/in/joaoffreis/)
-
-[comment]: <> (- 🌱 I’m currently learning ...)
-[comment]: <> (- ⚡ Fun fact: ...)
+I'm a Mechanical Engineer turned Data Professional based in Basel, Switzerland. This GitHub serves as my portfolio, as well as a platform to share resources with the community (especially beginners). I’m passionate about leveraging data to solve real-world problems and eager to connect with others who share this interest.
