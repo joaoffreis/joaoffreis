@@ -1,10 +1,35 @@
-# 👋 Hello World!
+# 👋 Hello!
 
-My name is João and I'm a Mechanical Engineer turned Data Professional, passionate about transforming data into actionable insights and solutions. I love building data models and exploring the world of coding. In my free time I like to play sports, solve puzzles and assemble Lego sets.
+My name is João.
 
-Here, you'll find my approach to some of the interesting challenges I've encountered, which I’ve decided to share for the benefit of others who might face similar problems.
+I’m a Mechanical Engineer turned Data & Analytics professional currently working in Switzerland within pricing and commercial analytics.
 
-I’m always interested in collaborating on new and exciting projects, so feel free to reach out!
+My work focuses on building quantitative models and analytical systems that support decision-making at enterprise scale. In my current role I work on pricing analytics and optimization problems impacting tens of thousands of customers and hundreds of thousands of products.
+
+---
+
+## 🔍 Areas of interest
+
+• Optimization & Operations Research  
+• Machine Learning & Predictive Modeling  
+• Statistical Analysis  
+• Data Engineering & Analytics Platforms  
+
+Technologies I frequently work with:
+
+Python • SQL • Databricks • Machine Learning
+
+---
+
+## 📚 About this GitHub
+
+This GitHub mainly contains learning projects, experiments, and extended coursework that I use to explore data science techniques.
+
+When possible, I expand course projects beyond their original requirements to experiment with additional approaches and share explanations that may help other learners starting their journey in data and analytics.
+
+My goal is to keep a small collection of practical examples and notes that others might find useful.
+
+---
 
 📫 How to reach me:
 ---
