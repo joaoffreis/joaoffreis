@@ -6,7 +6,6 @@ I’m a Mechanical Engineer turned Data & Analytics professional currently worki
 
 My work focuses on building quantitative models and analytical systems that support decision-making at enterprise scale. In my current role I work on pricing analytics and optimization problems impacting tens of thousands of customers and hundreds of thousands of products.
 
----
 
 ## 🔍 Areas of interest
 
@@ -19,7 +18,6 @@ Technologies I frequently work with:
 
 Python • SQL • Databricks • Machine Learning
 
----
 
 ## 📚 About this GitHub
 
@@ -29,7 +27,6 @@ When possible, I expand course projects beyond their original requirements to ex
 
 My goal is to keep a small collection of practical examples and notes that others might find useful.
 
----
 
 📫 How to reach me:
 ---
