@@ -14,7 +14,7 @@ My work focuses on building quantitative models and analytical systems that supp
 • Statistical Analysis  
 • Data Engineering & Analytics Platforms  
 
-Technical toolkit:
+Usual technical toolkit:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logoColor=white" alt="SQL" />
