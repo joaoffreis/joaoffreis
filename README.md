@@ -14,9 +14,13 @@ My work focuses on building quantitative models and analytical systems that supp
 • Statistical Analysis  
 • Data Engineering & Analytics Platforms  
 
-Technologies I frequently work with:
-
-Python • SQL • Databricks • Machine Learning
+Technical toolkit:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+</p>
 
 
 ## 📚 About this GitHub
