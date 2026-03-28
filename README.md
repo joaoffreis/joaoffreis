@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-My name is João.
+My name is Joao.
 
 I’m a Mechanical Engineer turned Data & Analytics professional currently working in Switzerland within pricing and commercial analytics.
 
