@@ -1,35 +1,57 @@
-# 👋 Hello!
+# 🌍 Hello World!
 
 My name is Joao.
 
-I’m a Mechanical Engineer turned Data & Analytics professional currently working in Switzerland within pricing and commercial analytics.
+I originally studied mechanical engineering because I like understanding how systems work and how to improve them.
 
-My work focuses on building quantitative models and analytical systems that support decision-making at enterprise scale. In my current role I work on pricing analytics and optimization problems impacting tens of thousands of customers and hundreds of thousands of products.
+After that I spent a few years in software testing building automation frameworks and learned to care about code that is reproducible and understandable.
+
+Today I work as a data analyst. Outside of work, I try to keep a healthy distance from screens, so you can usually find me playing sports, hiking, playing board games, or building LEGO.
 
 
 ## 🔍 Areas of interest
 
-• Optimization & Operations Research  
-• Machine Learning & Predictive Modeling  
-• Statistical Analysis  
-• Data Engineering & Analytics Platforms  
+- Optimization
+- Operations Research
+- R&D
+- Machine Learning
+- Statistical Analysis
+- Data Engineering & Data Quality
 
-Usual technical toolkit:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-</p>
+
+## 🛠️ Usual Toolkit
+
+<div align="left">
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"
+    alt="Python"
+    height="22"
+  />
+  <img
+    src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"
+    alt="SQL"
+    height="22"
+  />
+  <img
+    src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white"
+    alt="Databricks"
+    height="22"
+  />
+  <img
+    src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white"
+    alt="Machine Learning"
+    height="22"
+  />
+</div>
 
 
 ## 📚 About this GitHub
 
-This GitHub mainly contains learning projects, experiments, and extended coursework that I use to explore data science techniques.
+This GitHub contains learning projects, experiments, and extended coursework that I use to explore data science techniques.
 
-When possible, I expand course projects beyond their original requirements to experiment with additional approaches and share explanations that may help other learners starting their journey in data and analytics.
+Some projects started as coursework, but I usually try to expand on them beyond the original requirement when it makes sense, testing another approach, improving the explanation, or just cleaning up the workflow so it's easier to follow.
 
-My goal is to keep a small collection of practical examples and notes that others might find useful.
+Mostly, I just want to keep a small collection of practical examples and notes that I can look back on, and that might be useful for someone learning the same topic later.
 
 
 📫 How to reach me:
